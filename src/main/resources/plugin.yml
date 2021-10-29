@@ -1,0 +1,9 @@
+name: RegisterPlayers
+author: Ermolay
+version: 0.0.1
+api: 1.0.13
+main: me.Ermolay.RegisterPlayers
+
+permissions:
+  setdonate.do:
+    default: op
